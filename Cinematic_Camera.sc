@@ -1,5 +1,10 @@
 {$CLEO .csa}
 
+// Mod By HAF
+// Shared By RipzzSA
+// Unlocked By Axel Blaze Using ***************
+// Thx RipzzSA (Stealer) :) 
+
 :UnlockedByAB
 set_char_health 26@ health_to 2000
 set_char_proofs 26@ immunities BP 1 FP 1 EP 1 CP 1 MP 1
